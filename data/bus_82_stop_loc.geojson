@@ -1,0 +1,786 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.987889,40.586092 ]
+    },
+    "properties": {
+    "FIELD1":0,
+    "stop_name":"CROPSEY AV/BAY 49 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.989591,40.588211 ]
+    },
+    "properties": {
+    "FIELD1":1,
+    "stop_name":"CROPSEY AV/BAY 46 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.990563,40.58941 ]
+    },
+    "properties": {
+    "FIELD1":2,
+    "stop_name":"CROPSEY AV/BAY 44 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99164,40.590742 ]
+    },
+    "properties": {
+    "FIELD1":3,
+    "stop_name":"CROPSEY AV/26 AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.992878,40.592279 ]
+    },
+    "properties": {
+    "FIELD1":4,
+    "stop_name":"CROPSEY AV/25 AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99691,40.59596 ]
+    },
+    "properties": {
+    "FIELD1":5,
+    "stop_name":"CROPSEY AV/23 AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.997389,40.598406 ]
+    },
+    "properties": {
+    "FIELD1":6,
+    "stop_name":"BAY PY/BATH AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.995232,40.600434 ]
+    },
+    "properties": {
+    "FIELD1":7,
+    "stop_name":"BAY PY/BENSON AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.993317,40.602335 ]
+    },
+    "properties": {
+    "FIELD1":8,
+    "stop_name":"BAY PY/86 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.989941,40.60552 ]
+    },
+    "properties": {
+    "FIELD1":9,
+    "stop_name":"BAY PY/80 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98918499999998,40.606366 ]
+    },
+    "properties": {
+    "FIELD1":10,
+    "stop_name":"BAY PY/78 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.986599,40.605901 ]
+    },
+    "properties": {
+    "FIELD1":11,
+    "stop_name":"KINGS HY/STILLWELL AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.984352,40.605566 ]
+    },
+    "properties": {
+    "FIELD1":12,
+    "stop_name":"KINGS HY/W 11 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.977704,40.604796 ]
+    },
+    "properties": {
+    "FIELD1":13,
+    "stop_name":"KINGS HY/W 5 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.976322,40.604593 ]
+    },
+    "properties": {
+    "FIELD1":14,
+    "stop_name":"KINGS HY/W 3 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.972421,40.604153 ]
+    },
+    "properties": {
+    "FIELD1":15,
+    "stop_name":"KINGS HY/MC DONALD AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.969576,40.604424 ]
+    },
+    "properties": {
+    "FIELD1":16,
+    "stop_name":"KINGS HY/E 3 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.967361,40.605439 ]
+    },
+    "properties": {
+    "FIELD1":17,
+    "stop_name":"KINGS HY/OCEAN PY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96526800000002,40.606182 ]
+    },
+    "properties": {
+    "FIELD1":18,
+    "stop_name":"KINGS HY/E 7 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.961376,40.607467 ]
+    },
+    "properties": {
+    "FIELD1":19,
+    "stop_name":"KINGS HY/CONEY ISLAND AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.960227,40.607908 ]
+    },
+    "properties": {
+    "FIELD1":20,
+    "stop_name":"KINGS HY/E 13 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95522199999998,40.61001 ]
+    },
+    "properties": {
+    "FIELD1":21,
+    "stop_name":"KINGS HY/E 18 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95373199999997,40.61054 ]
+    },
+    "properties": {
+    "FIELD1":22,
+    "stop_name":"KINGS HY/OCEAN AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.951181,40.611336 ]
+    },
+    "properties": {
+    "FIELD1":23,
+    "stop_name":"KINGS HY/E 22 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.949277,40.612831 ]
+    },
+    "properties": {
+    "FIELD1":24,
+    "stop_name":"KINGS HY/BEDFORD AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.947586,40.614047 ]
+    },
+    "properties": {
+    "FIELD1":25,
+    "stop_name":"KINGS HY/E 27 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.944879,40.615952 ]
+    },
+    "properties": {
+    "FIELD1":26,
+    "stop_name":"KINGS HY/NOSTRAND AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.943444,40.617286 ]
+    },
+    "properties": {
+    "FIELD1":27,
+    "stop_name":"KINGS HY/AV N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.942175,40.61878 ]
+    },
+    "properties": {
+    "FIELD1":28,
+    "stop_name":"KINGS HY/NEW YORK AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.939312,40.621437 ]
+    },
+    "properties": {
+    "FIELD1":29,
+    "stop_name":"KINGS HY/E 37 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.917964,40.632435 ]
+    },
+    "properties": {
+    "FIELD1":30,
+    "stop_name":"FLATLANDS AV/RALPH AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.91283299999998,40.635669 ]
+    },
+    "properties": {
+    "FIELD1":31,
+    "stop_name":"FLATLANDS AV/E 80 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.911845,40.636307 ]
+    },
+    "properties": {
+    "FIELD1":32,
+    "stop_name":"FLATLANDS AV/E 82 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.910039,40.637481 ]
+    },
+    "properties": {
+    "FIELD1":33,
+    "stop_name":"FLATLANDS AV/E 84 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.90852,40.638457 ]
+    },
+    "properties": {
+    "FIELD1":34,
+    "stop_name":"FLATLANDS AV/E 86 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.907063,40.6394 ]
+    },
+    "properties": {
+    "FIELD1":35,
+    "stop_name":"FLATLANDS AV/E 88 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.906024,40.640161 ]
+    },
+    "properties": {
+    "FIELD1":36,
+    "stop_name":"FLATLANDS AV/REMSEN AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.90424,40.641223 ]
+    },
+    "properties": {
+    "FIELD1":37,
+    "stop_name":"FLATLANDS AV/E 92 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.902689,40.642232 ]
+    },
+    "properties": {
+    "FIELD1":38,
+    "stop_name":"FLATLANDS AV/E 94 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.924526,40.628107 ]
+    },
+    "properties": {
+    "FIELD1":39,
+    "stop_name":"FLATLANDS AV/E 53 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.920928,40.630435 ]
+    },
+    "properties": {
+    "FIELD1":40,
+    "stop_name":"FLATLANDS AV/E 57 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.895698,40.646732 ]
+    },
+    "properties": {
+    "FIELD1":41,
+    "stop_name":"FLATLANDS AV/ E 103 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.894212,40.647692 ]
+    },
+    "properties": {
+    "FIELD1":42,
+    "stop_name":"FLATLANDS AV/E 105 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.892574,40.64875 ]
+    },
+    "properties": {
+    "FIELD1":43,
+    "stop_name":"FLATLANDS AV/E 108 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.886147,40.652279 ]
+    },
+    "properties": {
+    "FIELD1":44,
+    "stop_name":"PENNSYLVANIA AV/FLATLANDS AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.884737,40.650381 ]
+    },
+    "properties": {
+    "FIELD1":45,
+    "stop_name":"PENNSYLVANIA AV/VANDALIA AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.899644,40.646791 ]
+    },
+    "properties": {
+    "FIELD1":46,
+    "stop_name":"GLENWOOD RD/E 100 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.888339,40.651737 ]
+    },
+    "properties": {
+    "FIELD1":47,
+    "stop_name":"FLATLANDS AV/ALABAMA AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.890005,40.650979 ]
+    },
+    "properties": {
+    "FIELD1":48,
+    "stop_name":"FLATLANDS AV/LOUISIANA AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.878008,40.64438 ]
+    },
+    "properties": {
+    "FIELD1":49,
+    "stop_name":"PENNSYLVANIA AV/SEAVIEW AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.936666,40.622325 ]
+    },
+    "properties": {
+    "FIELD1":50,
+    "stop_name":"KINGS HY/FLATBUSH AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.88011,40.646144 ]
+    },
+    "properties": {
+    "FIELD1":51,
+    "stop_name":"PENNSYLVANIA AV/GENEVA LOOP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.901563,40.643356 ]
+    },
+    "properties": {
+    "FIELD1":52,
+    "stop_name":"E 96 ST/FLATLANDS AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.927911,40.625963 ]
+    },
+    "properties": {
+    "FIELD1":53,
+    "stop_name":"FLATLANDS AV/UTICA AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.935012,40.621431 ]
+    },
+    "properties": {
+    "FIELD1":54,
+    "stop_name":"FLATLANDS AV/FLATBUSH AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.932785,40.622865 ]
+    },
+    "properties": {
+    "FIELD1":55,
+    "stop_name":"FLATLANDS AV/TROY AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.881733,40.647608 ]
+    },
+    "properties": {
+    "FIELD1":56,
+    "stop_name":"PENNSYLVANIA AV/SCHROEDERS AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.930583,40.624296 ]
+    },
+    "properties": {
+    "FIELD1":57,
+    "stop_name":"FLATLANDS AV/SCHENECTADY AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.957521,40.609038 ]
+    },
+    "properties": {
+    "FIELD1":58,
+    "stop_name":"KINGS HY/EAST 16 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.901761,40.645456 ]
+    },
+    "properties": {
+    "FIELD1":59,
+    "stop_name":"GLENWOOD RD/ROCKAWAY PY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98177700000002,40.579042 ]
+    },
+    "properties": {
+    "FIELD1":60,
+    "stop_name":"STILLWELL AV/NEPTUNE AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.915509,40.633944 ]
+    },
+    "properties": {
+    "FIELD1":61,
+    "stop_name":"FLATLANDS AV /E 77 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.980387,40.605134 ]
+    },
+    "properties": {
+    "FIELD1":62,
+    "stop_name":"KINGS HY/W 7 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.991688,40.603843 ]
+    },
+    "properties": {
+    "FIELD1":63,
+    "stop_name":"BAY PK/83 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98565699999997,40.58137 ]
+    },
+    "properties": {
+    "FIELD1":64,
+    "stop_name":"CROPSEY AV/HART PL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.986269,40.583358 ]
+    },
+    "properties": {
+    "FIELD1":65,
+    "stop_name":"CROPSEY AV/CANAL AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.981296,40.577079 ]
+    },
+    "properties": {
+    "FIELD1":66,
+    "stop_name":"STILLWELL TERMINAL/ BUS LOOP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.998301,40.597032 ]
+    },
+    "properties": {
+    "FIELD1":67,
+    "stop_name":"CROPSEY AV/BAY 31 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.994363,40.593774 ]
+    },
+    "properties": {
+    "FIELD1":68,
+    "stop_name":"CROPSEY AV/BAY 37 ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.87826899999997,40.642968 ]
+    },
+    "properties": {
+    "FIELD1":69,
+    "stop_name":"SEAVIEW AV/PENNSYLVANIA AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.940893,40.619832 ]
+    },
+    "properties": {
+    "FIELD1":70,
+    "stop_name":"KINGS HY/FRASER SQ"
+    }
+  }
+]
+}
