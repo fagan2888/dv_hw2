@@ -12,7 +12,7 @@ Here, I am primarily looking at the B82 bus.
 This part involves collecting the coordinates of the stops associated with a particular route and generating the corresponding json file which stores the coordinates sequentially.
 
 ### 2. Realtime gtfs parsing
-We make use of the MTA API to retrieve the realtime gtfs feed showing the postion of buses. This feed is then parsed using 
+We make use of the MTA API to retrieve the realtime gtfs feed showing the postion of buses. This GTFS feed is then parsed to make it more readable and then converted to csv files.
 We then generate the json files containg the reatime position of the buses.
 
 
