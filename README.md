@@ -1,6 +1,6 @@
 # dv_hw2
 holding code and viz related files
-https://bl.ocks.org/vvt221/e0f6889cdfb17b6d6ee480596e77a5cf
+https://bl.ocks.org/vvt221/b445e45b39358337dff19be67310ea1e
 
 ## Objective:
 Visualize the path of any NYC bus diplaying the route, its stops and the location of buses obtained from the realtime GTFS data.
